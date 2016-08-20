@@ -1,0 +1,14 @@
+layout_spectrum: 0.5121148130856454
+typography_spectrum: 0.4174998907838017
+color:
+  brandStrength: 0.5888557503931224
+  lightness: 0.11513255280442536
+  saturation: 0.911976421251893
+  rhythmicContrast: 0.8876616284251213
+  brandColors:
+    - '#F7F7F7'
+    - '#82522C'
+    - '#DC5B00'
+    - '#FF8601'
+    - '#FEE400'
+name: Beweis.IO
