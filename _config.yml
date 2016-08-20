@@ -18,6 +18,10 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/eba95c93-f076-495a-8eb0-6e7b8b618fdb.jpg
 name: Beweis.IO
+navigation:
+  - name: Impressum
+    url: 'https://beweis.io/legal'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f3d97cc-eef9-4692-93bf-7751e3a52bb2.jpg
 title: Digitale Beweismittel
