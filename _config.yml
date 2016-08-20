@@ -1,28 +1,14 @@
-layout_spectrum: 0.7924615449737757
-typography_spectrum: 0.8768921592272818
+layout_spectrum: 0.5121148130856454
+typography_spectrum: 0.4174998907838017
 color:
-  brandStrength: 0.17157209641300142
-  lightness: 0.41965436027385294
-  saturation: 0.2865189020521939
-  rhythmicContrast: 0.9679592803586274
+  brandStrength: 0.5888557503931224
+  lightness: 0.11513255280442536
+  saturation: 0.911976421251893
+  rhythmicContrast: 0.8876616284251213
   brandColors:
-    - '#85DB18'
-    - '#CDE855'
-    - '#F5F6D4'
-    - '#A7C520'
-    - '#493F0B'
-author:
-  name: Devidence UG (haftungsbeschränkt) & Co. KG
-  email: info@beweis.io
-  url: www.beweis.io
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/eba95c93-f076-495a-8eb0-6e7b8b618fdb.jpg
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
 name: Beweis.IO
-navigation:
-  - name: Impressum
-    url: 'https://beweis.io/legal'
-    type: external
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f3d97cc-eef9-4692-93bf-7751e3a52bb2.jpg
-title: Digitale Beweismittel
-description: Professionell. Einfach. Zuverlässig.
