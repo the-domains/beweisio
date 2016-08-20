@@ -1,4 +1,3 @@
-layout_spectrum: 0.5121148130856454
 typography_spectrum: 0.4174998907838017
 color:
   brandStrength: 0.5888557503931224
@@ -6,9 +5,19 @@ color:
   saturation: 0.911976421251893
   rhythmicContrast: 0.8876616284251213
   brandColors:
-    - '#F7F7F7'
-    - '#82522C'
-    - '#DC5B00'
-    - '#FF8601'
-    - '#FEE400'
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+layout_spectrum: 0.5121148130856454
+author:
+  name: Devidence UG (haftungsbeschränkt) & Co. KG
+  email: info@beweis.io
+  url: www.beweis.io
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/eba95c93-f076-495a-8eb0-6e7b8b618fdb.jpg
 name: Beweis.IO
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f3d97cc-eef9-4692-93bf-7751e3a52bb2.jpg
+title: Professionell. Einfach. Zuverlässig.
